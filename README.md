@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahil M. Yadav</h1>
-<h3 align="center">🚀 Full Stack Developer | Flutter</h3>
+<h3 align="center">🚀 Full Stack Developer | Flutter | Computer Science 2025 </h3>
 
 ---
 ## 🤝 Connect with me
