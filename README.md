@@ -5,7 +5,7 @@
 ---
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahilyadav-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilmyadav)](https://www.linkedin.com/in/sahilmyadav/)           [![Email](https://img.shields.io/badge/Email-sahilyadav%40duck.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sahilyadav@duck.com)](mailto:sahilyadav@duck.com)           [![Resume](https://img.shields.io/badge/Resume-Sahil%20Yadav-6f42c1?style=flat-square&logo=readthedocs&logoColor=while&link=https://sahilmyadav.github.io/sahilmyadav/sahilmyadav_resume.pdf)](https://sahilmyadav.github.io/sahilmyadav/sahilmyadav_resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahilyadav-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilmyadav)](https://www.linkedin.com/in/sahilmyadav/)           [![Email](https://img.shields.io/badge/Email-sahilyadav%40duck.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sahilyadav@duck.com)](mailto:sahilyadav@duck.com)           [![Resume](https://img.shields.io/badge/Resume-Sahil_Yadav-6f42c1?style=flat-square&logo=readthedocs&logoColor=while&link=https://sahilmyadav.github.io/sahilmyadav/sahilmyadav_resume.pdf)](https://sahilmyadav.github.io/sahilmyadav/sahilmyadav_resume.pdf)
 
 
 ---
