@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+##🚀 Full-Stack Developer & 🤖 AI Innovator | 💻 Crafting MERN Web Apps | 📱 Flutter Mobile Experiences | 🧠 TensorFlow Solutions | 🎓 Computer Science Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahilyadav-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilmyadav)](https://www.linkedin.com/in/sahilmyadav/) [![Email](https://img.shields.io/badge/Email-sahilyadav%40duck.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sahilyadav@duck.com)](mailto:sahilyadav@duck.com)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sahilmyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
