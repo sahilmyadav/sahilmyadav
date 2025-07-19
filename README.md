@@ -7,12 +7,19 @@
 </p>
 
 ---
-### 📫 Connect with me
+## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahilyadav-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilmyadav)](https://www.linkedin.com/in/sahilmyadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-sahilmyadav-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilmyadav)
-[![Email](https://img.shields.io/badge/Email-sahilyadav%40duck.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sahilyadav@duck.com)](mailto:sahilyadav@duck.com)
-
+<p align="center">
+  <a href="https://linkedin.com/in/sahilmyadav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-SahilYadav-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sahilmyadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SahilMyadav-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:sahilyadav@duck.com">
+    <img src="https://img.shields.io/badge/Email-sahilyadav@duck.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
 ### 🧠 Summary
 - 💻 B.Tech in Computer Science from KDK College of Engineering (2025)
