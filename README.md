@@ -1,8 +1,38 @@
 
-##🚀 Full-Stack Developer & 🤖 AI Innovator | 💻 Crafting MERN Web Apps | 📱 Flutter Mobile Experiences | 🧠 TensorFlow Solutions |<br/> 🎓 Computer Science Engineer<br/>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8f7d.gif">
+<h1 align="center">Hi 👋, I'm Sahil M. Yadav</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | Flutter & TensorFlow Innovator</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahilyadav-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilmyadav)](https://www.linkedin.com/in/sahilmyadav/) [![Email](https://img.shields.io/badge/Email-sahilyadav%40duck.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sahilyadav@duck.com)](mailto:sahilyadav@duck.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sahilmyadav)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/sahilmyadav)
+[![Email](https://img.shields.io/badge/Email-sahilyadav@duck.com-blue?style=flat&logo=gmail)](mailto:sahilyadav@duck.com)
+
+---
+### 🧠 Summary
+- 💻 B.Tech in Computer Science from KDK College of Engineering (2025)
+- 🧩 Full Stack Developer (MERN, Spring Boot, Flutter)
+- ☁️ AWS + TensorFlow + AI/ML + Firebase
+- 🔍 Passionate about building efficient, scalable apps for real-world impact
+
+---
+
+### 🔧 Skills & Tools
+
+**Languages:**  
+`Java` `C++` `Python` `Dart`
+
+**Frameworks & Tech:**  
+`React.js` `Node.js` `Express.js` `Flutter` `Spring Boot` `TensorFlow` `OpenCV` `Firebase`
+
+**Databases & Cloud:**  
+`MongoDB` `SQL` `NoSQL` `AWS` `GitHub` `Linux` `Postman`  
+
 ---
 
 ## 💡 Quote of the Day
@@ -10,31 +40,61 @@
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
 ---
-## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+### 📌 Featured Projects
+
+#### 🚀 [News Feed App (Flutter)](https://github.com/sahilmyadav/newsapp-flutter)
+- Real-time news aggregation with NewsAPI, SQL storage & reels-style scroll UI.
+  
+#### 🌍 [Travel Website (MERN)](https://github.com/sahilmyadav/travel-website-mern-stack)
+- Secure, full-stack travel platform with JWT auth, real-time bookings, admin dashboard.
+
+#### 🔥 [Forest Fire Detection (AI)](https://github.com/sahilmyadav/firedetection-Ai)
+- 92% accurate deep learning model using TensorFlow & OpenCV for satellite image fire detection.
+
+#### ⛏️ Monero Mining (XMRig)
+- Achieved consistent hashrates & mined 4 XMR coins (~₹1.16L), optimized for energy efficiency.
+
+---
+
+### 💼 Internships & Experience
+
+- **AI & Data Analytics Intern @ Shell (2025)**  
+  ML forecasting, data visualization, sustainability modeling.
+
+- **Full Stack Intern @ EY GDS (2024)**  
+  Built scalable MERN web apps, integrated AI, improved performance & UI/UX.
+
+- **AWS Academy Graduate**  
+  Hands-on cloud ML training using AWS services, EC2, S3, and AI workflows.
+
+- **Salesforce Admin @ CSM IT**  
+  Automated email verification, user-role management.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahilmyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilmyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🏆 Achievements
 
-## 📌 Featured Projects
-
-- 🔗 [News App in Flutter](https://github.com/sahilmyadav/newsapp-flutter) – A modern Flutter app using live news APIs
-- 🔗 [Forest Fire Detection System](#) – AI-based model using TensorFlow, OpenCV
-- 🔗 [Travel Planning MERN Stack App](#) – Full-featured travel web app with JWT Auth, dynamic routes
+- EY & AICTE – Full Stack Intern  
+- Shell India – AI/ML Analytics Intern  
+- AWS Academy – AI-ML Cloud Training  
+- Salesforce Admin Certified  
+- IRJMETS + SPARK National Research Paper Publications  
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilmyadav&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmyadav&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🐍 Watch the Snake Eat My Contributions!
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+---
 ---
 [![](https://visitcount.itsvg.in/api?id=Sahilmyadav&icon=0&color=0)](https://visitcount.itsvg.in)
