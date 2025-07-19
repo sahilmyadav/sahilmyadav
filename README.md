@@ -9,9 +9,9 @@
 ---
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sahilmyadav)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/sahilmyadav)
-[![Email](https://img.shields.io/badge/Email-sahilyadav@duck.com-blue?style=flat&logo=gmail)](mailto:sahilyadav@duck.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahilyadav-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilmyadav)](https://www.linkedin.com/in/sahilmyadav/)
+[![GitHub](https://img.shields.io/badge/GitHub-sahilmyadav-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/sahilmyadav)](https://github.com/sahilmyadav)
+[![Email](https://img.shields.io/badge/Email-sahilyadav%40duck.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sahilyadav@duck.com)](mailto:sahilyadav@duck.com)
 
 ---
 ### 🧠 Summary
