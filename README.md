@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahil M. Yadav</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | Flutter & TensorFlow Innovator</h3>
+<h3 align="center">🚀 Full Stack Developer | Flutter</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
