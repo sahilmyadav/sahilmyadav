@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Sahil M. Yadav</h1>
 <h3 align="center">🚀 Full Stack Developer | Flutter</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
 ---
 ## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahilyadav-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilmyadav)](https://www.linkedin.com/in/sahilmyadav/)
+
+[![Email](https://img.shields.io/badge/Email-sahilyadav%40duck.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sahilyadav@duck.com)](mailto:sahilyadav@duck.com)
 
 <p align="center">
   <a href="https://linkedin.com/in/sahilmyadav" target="_blank">
