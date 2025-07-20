@@ -71,7 +71,7 @@
 ### 🏆 Achievements
 
 - EY & AICTE – Full Stack Intern  
-- Shell India – AI/ML Analytics Intern  
+- Shell India – AI-ML Analytics Intern  
 - AWS Academy – AI-ML Cloud Training  
 - Salesforce Admin Certified  
 - IRJMETS + SPARK National Research Paper Publications  
