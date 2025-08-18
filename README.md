@@ -36,7 +36,8 @@
 ---
 
 ### ⚙️ Tech Stack
-<p align="center"><br/>
+<p align="center">
+  <br/>
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,cpp,html,css&perline=10" /><br/>
   
