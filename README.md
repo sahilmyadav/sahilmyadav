@@ -37,8 +37,22 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,js,ts,react,nodejs,express,flutter,spring,mongodb,postgres,mysql,aws,docker,linux,git,postman&perline=10" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,cpp,html,css&perline=10" /><br/>
+  
+  <!-- Backend / Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,flutter&perline=10" /><br/>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=10" /><br/>
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git&perline=10" /><br/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=postman&perline=10" />
 </p>
+
 
 ---
 
