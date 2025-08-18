@@ -1,16 +1,16 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,100:00D4FF&text=Sahil%20M.%20Yadav&fontColor=ffffff&fontAlignY=40&fontSize=56&desc=Full%20Stack%20%7C%20Flutter%20%7C%20CS%20Student&descAlignY=65&descAlign=50" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,100:00D4FF&text=Sahil%20M.%20Yadav&fontColor=ffffff&fontAlignY=40&fontSize=56&desc=Full%20Stack%20Developer%20%7C%20Flutter%20%7C%20Fresher&descAlignY=65&descAlign=50" alt="banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+efficient%2C+scalable+apps+with+real-world+impact;MERN+%7C+Spring+Boot+%7C+Flutter+%7C+AI%2FML;Always+shipping%2C+always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Stack+%7C+Flutter+%7C+Java%2FC++%2FPython;Passionate+Fresher+Developer;Eager+to+learn%2C+build+and+grow" alt="Typing SVG" />
   </a>
 </p>
 
 <h3 align="center">Hi 👋, I'm Sahil M. Yadav</h3>
-<h4 align="center">Full Stack Developer · Flutter Developer · Computer Science (KDKCE'25)</h4>
+<h4 align="center">Full Stack Developer · Flutter Developer · Computer Science Fresher (KDKCE'25)</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahilmyadav/">
@@ -24,88 +24,57 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Mobile-00D4FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-TensorFlow%20%7C%20OpenCV-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
-
 ---
 
 ### 🧠 About Me
 - 🎓 B.Tech CSE (KDK College of Engineering, 2025)
-- 🧩 Full Stack: **MERN**, **Spring Boot**, **Flutter**
-- ☁️ **AWS + Firebase** · **TensorFlow + OpenCV**
-- 🚀 I love turning ideas into reliable, scalable products
+- 🧩 Fresher Full Stack Developer: **MERN**, **Spring Boot**, **Flutter**
+- ☁️ **AWS + Firebase**
+- 🚀 Passionate about learning, building, and contributing to impactful projects
 
 ---
 
-### ⚙️ Tech Stack (animated & compact)
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,javascript,typescript,react,nodejs,express,flutter,spring,mongodb,postgres,git,linux,aws,firebase,postman,opencv,tensorflow&perline=10" />
-</p>
-
-<!-- Animated skill meters (SVG progress bars) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Expert-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-Advanced-06b6d4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-Advanced-f97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-Intermediate-a855f7?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,javascript,typescript,react,nodejs,express,flutter,spring,mongodb,postgres,git,linux,aws,firebase,postman&perline=10" />
 </p>
 
 ---
 
 ### ✨ Quote of the Day
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-
-_(Auto alternatives you can try: [quotes-github-readme](https://github.com/PiyushSuthar/github-readme-quotes))_
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
 
 ---
 
 ## 📌 Featured Projects
 
 #### 🚀 News Feed App (Flutter)
-**Realtime news** via NewsAPI, local SQL cache, reels-style scroll.
+- Real-time news with NewsAPI, local SQL storage & reels-style UI.  
 - Repo: **[newsapp-flutter](https://github.com/sahilmyadav/newsapp-flutter)**
-- Stack: Flutter · REST · Local DB
 
 #### 🌍 Travel Website (MERN)
-**Secure bookings** with JWT, admin dashboard, real-time UX.
+- Secure, full-stack travel platform with JWT auth, real-time bookings, admin dashboard.  
 - Repo: **[travel-website-mern-stack](https://github.com/sahilmyadav/travel-website-mern-stack)**
-- Stack: React · Node · Express · MongoDB
-
-#### 🔥 Forest Fire Detection (AI)
-92% accurate deep learning model on satellite imagery.
-- Repo: **[firedetection-Ai](https://github.com/sahilmyadav/firedetection-Ai)**
-- Stack: TensorFlow · OpenCV · Python
-
-#### ⛏️ Monero Mining (XMRig)
-Achieved consistent hashrates, **mined ~4 XMR (~₹1.16L)**, tuned for efficiency.
 
 ---
 
 ## 💼 Internships & Experience
-
-- **AI & Data Analytics Intern — Shell (2025)**  
-  ML forecasting · dashboards · sustainability modeling
-
 - **Full Stack Intern — EY GDS (2024)**  
-  Scalable MERN apps · AI integrations · performance & UX
+  Built scalable MERN web apps, improved performance & UI/UX.
 
 - **AWS Academy Graduate**  
-  EC2 · S3 · AI/ML workflows
+  Hands-on training in cloud services: EC2, S3, serverless workflows.
 
 - **Salesforce Admin — CSM IT**  
-  Email automation · role-based access
+  Automated email verification, user-role management.
 
 ---
 
 ## 🏆 Achievements
 - EY & AICTE — Full Stack Intern  
-- Shell India — AI/ML Analytics Intern  
-- AWS Academy — AI/ML Cloud Training  
+- AWS Academy — Cloud Training  
 - Salesforce Admin Certified  
-- IRJMETS & SPARK — National Research Publications
+- IRJMETS & SPARK — National Research Paper Publications  
 
 ---
 
