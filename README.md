@@ -12,9 +12,8 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/d1/f2/2e/d1f22e92cf74aebedcf20432a9a57b7e.jpg" width="280" style="background: transparent;">
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
 </div>
-
 ---
 
 ## 📬 Connect with Me  
