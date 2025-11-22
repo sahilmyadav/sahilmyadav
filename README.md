@@ -117,6 +117,6 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,100:7F00FF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3a8296,100:091519&section=footer" />
 </p>
 
