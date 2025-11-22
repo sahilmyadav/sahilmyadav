@@ -14,6 +14,7 @@
 <div align="center">
     <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
 </div>
+
 ---
 
 ## 📬 Connect with Me  
@@ -150,7 +151,37 @@ https://github.com/sahilmyadav/BillEase
 
 ---
 
-## ✍️ Random Dev Quote  
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/sahilmyadav/sahilmyadav/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<!-- 
+  If the SVG above doesn't load yet, set up the snake GitHub Action:
+  1. Fork or use https://github.com/Platane/snk
+  2. Configure the workflow to push `github-contribution-grid-snake.svg` to the `output` branch
+  3. Make sure the path in the <img> tag matches your generated file
+-->
+
+---
+
+## 🤯 When People See This Profile
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-Mind%20Blown-FF4B5C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Made%20With-Markdown%20%26%20SVG%20Tricks-b3001b?style=for-the-badge&logo=markdown&logoColor=FFFFFF" />
+</p>
+
+<p align="center">
+  <i>"Wait... this is just a README with some tricks?!"</i><br/>
+  <sub>Yep. A bit of Markdown, SVGs, and GitHub Actions magic 🪄</sub>
+</p>
+
+---
+
+## ✍️ Dev Quote  
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:b3001b,100:000000&border_color=B3001B&text_color=FFFFFF" />
 </p>
