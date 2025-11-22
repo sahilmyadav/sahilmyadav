@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/d1/f2/2e/d1f22e92cf74aebedcf20432a9a57b7e.jpg" width="280">
+  <img src="https://i.pinimg.com/1200x/d1/f2/2e/d1f22e92cf74aebedcf20432a9a57b7e.jpg" width="280" style="background: transparent;">
 </div>
 
 ---
