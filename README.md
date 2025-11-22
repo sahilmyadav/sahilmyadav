@@ -8,6 +8,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Stack+%7C+Flutter+%7C+Java%2FC++%2FPython;Passionate+Fresher+Developer;Eager+to+learn%2C+build+and+grow" alt="Typing SVG" />
   </a>
 </p>
+💡 *“Crafting logic and elegance in every line of code.”*
+
+---
+
+<div align="center">
+<picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+</div>
+
+---
 
 <h3 align="center">Hi 👋, I'm Sahil M. Yadav</h3>
 <h4 align="center">Full Stack Developer · Flutter Developer · Computer Science Fresher (KDKCE'25)</h4>
