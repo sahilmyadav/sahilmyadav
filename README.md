@@ -137,7 +137,7 @@ https://github.com/sahilmyadav/BillEase
 
 ## 📊 GitHub Statistics
 
-<img align="right" width="40%" src="YOUR_DEADPOOL_IMAGE_URL" />
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahilmyadav&show_icons=true&theme=radical&title_color=B3001B&icon_color=B3001B&text_color=FFFFFF&bg_color=0,05060a,000000&border_color=B3001B&hide_border=false" height="170em"/>
 
