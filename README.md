@@ -1,21 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?
-    type=waving
-    &color=0:0d9dbf,100:06141f
-    &height=230
-    &text=Hi,%20I'm%20Sahil%20M.%20Yadav
-    &fontSize=48
-    &fontColor=ffffff
-    &fontAlignY=40
-    &animation=fadeIn
-    &desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer%20%7C%20Fresher
-    &descAlignY=80
-    &descSize=22" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9dbf,100:06141f&height=230&text=Hi,%20I'm%20Sahil%20M.%20Yadav&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Flutter%20%7C%20Fresher&descSize=22&descAlignY=80" 
     alt="Sahil Yadav Banner"
   />
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
