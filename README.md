@@ -8,8 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Stack+%7C+Flutter+%7C+Java%2FC++%2FPython;Passionate+Fresher+Developer;Eager+to+learn%2C+build+and+grow" alt="Typing SVG" />
   </a>
 </p>
-💡 *“Crafting logic and elegance in every line of code.”*
-
 ---
 
 <div align="center">
