@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:0088ff,100:00111a&height=220&text=Hi,%20I'm%20Sahil%20M.%20Yadav&fontSize=46&fontColor=f8faff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Flutter%20%7C%20Fresher&descSize=22&descAlignY=75" 
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00d4ff,100:001c29&height=210&text=Hi,%20I'm%20Sahil%20M.%20Yadav&fontSize=44&fontColor=ffffff&animation=blink&desc=Full%20Stack%20Developer%20%7C%20Flutter%20%7C%20Fresher&descSize=22&descAlignY=75" 
   />
 </p>
 
