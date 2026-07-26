@@ -1,193 +1,137 @@
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:b3001b,100:05060a&height=150&text=Hi,%20I'm%20Sahil%20M.%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20Flutter&descSize=27&descAlignY=85&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3001B,50:6e0011,100:0D1117&height=170&text=Sahil%20M.%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Java%20•%20MERN%20•%20Flutter&descSize=22&descAlignY=62&section=header" />
 </p>
 
-👋 **Full Stack Software Developer | Java • Spring Boot • MERN • Flutter**  
-💡 Passionate about AI, clean architecture, system design & building scalable apps.  
-🎯 I turn ideas into real products using modern tools & high-performance code.
-
-*"Code smart. Break nothing. (…okay maybe *something*.)"* 😄
-
----
-
-<div align="center">
-    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
-</div>
-
----
-
-## 📬 Connect with Me  
-
+<!-- Animated typing intro -->
 <p align="center">
-  <a href="mailto:sahilyadav@duck.com">
-    <img src="https://img.shields.io/badge/Gmail-05060a?style=for-the-badge&logo=gmail&logoColor=B3001B" />
-  </a>
-
-  <a href="https://linkedin.com/in/sahilmyadav">
-    <img src="https://img.shields.io/badge/LinkedIn-05060a?style=for-the-badge&logo=linkedin&logoColor=B3001B" />
-  </a>
-
   <a href="https://github.com/sahilmyadav">
-    <img src="https://img.shields.io/badge/GitHub-05060a?style=for-the-badge&logo=github&logoColor=B3001B" />
-  </a>
-
-  <a href="https://discord.com/users/805123459566010417">
-    <img src="https://img.shields.io/badge/Discord-05060a?style=for-the-badge&logo=discord&logoColor=B3001B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=E63946&center=true&vCenter=true&width=520&lines=Java+%2B+Spring+Boot+on+the+backend;MERN+on+the+frontend;Flutter+on+mobile;AI%2C+clean+architecture+%26+system+design;Code+smart.+Break+nothing.+(...mostly)" />
   </a>
 </p>
 
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## 👨‍💻 About Me
+
+- 🔭 Currently building **full-stack products** with Spring Boot, MERN & Flutter
+- 🌱 Learning **system design, AI/ML pipelines & cloud architecture**
+- 💼 Open to **SDE / Full-Stack roles & freelance projects**
+- 📍 India · 💬 Ask me about **Java, React, Flutter, REST APIs**
+- ⚡ Fun fact: *I debug faster with music on* 🎧
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## 📬 Connect
+
 <p align="center">
-  <a href="https://github.com/sahilmyadav">
-    <img src="https://komarev.com/ghpvc/?username=sahilmyadav&color=b3001b&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/sahilmyadav">
-    <img src="https://img.shields.io/github/followers/sahilmyadav?label=Followers&color=b3001b&style=flat" />
-  </a>
+  <a href="mailto:sahilyadav@duck.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
+  <a href="https://linkedin.com/in/sahilmyadav"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
+  <a href="https://github.com/sahilmyadav"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E63946" /></a>
+  <a href="https://discord.com/users/805123459566010417"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=E63946" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilmyadav&color=B3001B&style=flat&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/sahilmyadav?label=Followers&color=B3001B&style=flat" />
+  <img src="https://img.shields.io/github/stars/sahilmyadav?label=Stars&color=B3001B&style=flat" />
 </p>
 
 ---
 
-## 🧠 Skills (From Your Resume)
+## 🛠 Tech Stack
 
-### 🏗 Backend
-- Java • Spring Boot  
-- Node.js • Express  
-- REST APIs  
-- JWT • RBAC Auth
+<p align="center">
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" />
+</p>
+<p align="center">
+  <b>Frontend & Mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,flutter,dart&theme=dark" />
+</p>
+<p align="center">
+  <b>Databases · Cloud · Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,githubactions,linux,git,postman&theme=dark" />
+</p>
 
-### 🎨 Frontend
-- React  
-- HTML / CSS  
-- Responsive UI/UX
+---
 
-### 🗄 Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB
+## 🏅 Certifications & Achievements
 
-### ☁ Cloud & DevOps
-- AWS (EC2, S3)  
-- Docker  
-- GitHub Actions (CI/CD)
-
-### 📱 Mobile
-- Flutter • Dart
-
-### 🧰 Tools
-- Linux • Git  
-- Postman  
-- XMRig (Monero Mining)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Academy-ML%20Foundations-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/Salesforce-Administration-0D1117?style=for-the-badge&logo=salesforce&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/Shell%20India-AI%20%26%20Analytics-0D1117?style=for-the-badge&logo=shell&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/EY%20GDS-Full%20Stack-0D1117?style=for-the-badge&logo=ey&logoColor=E63946" />
+</p>
 
 ---
 
 ## 🏢 Experience
 
-### **AI & Data Analytics Intern — Shell India** *(April 2025)*  
-- Regression + Clustering on sustainability datasets  
-- Built visual dashboards using Python (Matplotlib, Seaborn)  
-- Contributed to an AI forecasting model for SDGs  
-:contentReference[oaicite:1]{index=1}
-
-### **Full Stack Web Dev Intern — EY GDS** *(Dec 2024 – Jan 2025)*  
-- MERN stack applications  
-- AI-assisted UI/UX improvements  
-- Scalable, modular web development  
-:contentReference[oaicite:2]{index=2}
-
-### **AI-ML Internship — AWS Academy** *(2023)*  
-- Worked on supervised + unsupervised ML  
-- EC2 & cloud compute fundamentals  
-:contentReference[oaicite:3]{index=3}
-
-### **Salesforce Admin — CSM IT** *(2023)*  
-- User management, roles, permissions  
-- Automated email verification (40% workload cut)  
-:contentReference[oaicite:4]{index=4}
+| Role | Company | When | Highlights |
+|------|---------|------|-----------|
+| **AI & Data Analytics Intern** | Shell India | Apr 2025 | Regression + clustering on sustainability data · Python dashboards · AI forecasting for SDGs |
+| **Full Stack Web Dev Intern** | EY GDS | Dec 2024 – Jan 2025 | MERN apps · AI-assisted UI/UX · modular, scalable builds |
+| **AI-ML Intern** | AWS Academy | 2023 | Supervised + unsupervised ML · EC2 & cloud compute |
+| **Salesforce Admin** | CSM IT | 2023 | Roles & permissions · automated email verification (−40% workload) |
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔥 News Feed App (Flutter + SQL + API)
-Real-time news with reels-style UI  
-https://github.com/sahilmyadav/newsapp-flutter  
-:contentReference[oaicite:5]{index=5}
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **[News Feed App](https://github.com/sahilmyadav/newsapp-flutter)** | Flutter · SQL · REST | Real-time news with a reels-style UI |
+| **[Travel Website](https://github.com/sahilmyadav/travel-website-mern-stack)** | MERN · JWT | Full booking system with filters, search & admin panel |
+| **[Forest Fire Detection](https://github.com/sahilmyadav/firedetection-Ai)** | TensorFlow · OpenCV | 92%-accuracy CNN with a real-time alert pipeline |
+| **[BillEase](https://github.com/sahilmyadav/BillEase)** | Spring Boot · React | POS billing with RBAC & analytics dashboard |
 
-### 🌍 Travel Website (MERN + JWT + Admin Panel)
-Complete booking system with filters/search  
-https://github.com/sahilmyadav/travel-website-mern-stack  
-:contentReference[oaicite:6]{index=6}
-
-### 🔥 Forest Fire Detection (TensorFlow + OpenCV)
-92% accuracy CNN + real-time alert pipeline  
-https://github.com/sahilmyadav/firedetection-Ai  
-:contentReference[oaicite:7]{index=7}
-
-### 💳 BillEase (Spring Boot + React)
-POS billing + RBAC + analytics dashboard  
-https://github.com/sahilmyadav/BillEase  
-:contentReference[oaicite:8]{index=8}
-
-### 💰 Monero Mining (XMRig)
-4 Monero mined (~1.16 Lakh INR, 2025)  
-:contentReference[oaicite:9]{index=9}
+> 📌 Pin these four repos on your profile (GitHub → Profile → *Customize your pins*) so they show below the README.
 
 ---
 
-## 📊 GitHub Statistics
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahilmyadav&show_icons=true&theme=radical&title_color=B3001B&icon_color=B3001B&text_color=FFFFFF&bg_color=0,05060a,000000&border_color=B3001B&hide_border=false" height="170em"/>
-
-<img src="https://streak-stats.demolab.com?user=sahilmyadav&theme=radical&hide_border=false&background=0,000000,05060a&currStreakLabel=B3001B&ring=B3001B&fire=FF4B5C&sideLabels=FFFFFF" height="170em"/>
-
----
-
-## 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmyadav&layout=compact&langs_count=8&theme=radical&title_color=B3001B&text_color=FFFFFF&bg_color=0,05060a,000000&border_color=B3001B&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
-
-## 🐍 GitHub Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github.com/sahilmyadav/sahilmyadav/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<!-- 
-  If the SVG above doesn't load yet, set up the snake GitHub Action:
-  1. Fork or use https://github.com/Platane/snk
-  2. Configure the workflow to push `github-contribution-grid-snake.svg` to the `output` branch
-  3. Make sure the path in the <img> tag matches your generated file
--->
-
----
-
-## 🤯 When People See This Profile
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-Mind%20Blown-FF4B5C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Made%20With-Markdown%20%26%20SVG%20Tricks-b3001b?style=for-the-badge&logo=markdown&logoColor=FFFFFF" />
-</p>
-
-<p align="center">
-  <i>"Wait... this is just a README with some tricks?!"</i><br/>
-  <sub>Yep. A bit of Markdown, SVGs, and GitHub Actions magic 🪄</sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilmyadav&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=E63946" />
 </p>
 
 ---
 
-## ✍️ Dev Quote  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:b3001b,100:000000&border_color=B3001B&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilmyadav&show_icons=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0D1117&border_color=30363d" height="165" />
+  <img src="https://streak-stats.demolab.com?user=sahilmyadav&background=0D1117&border=30363d&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmyadav&layout=compact&langs_count=8&title_color=E63946&text_color=c9d1d9&bg_color=0D1117&border_color=30363d" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmyadav&bg_color=0D1117&color=c9d1d9&line=E63946&point=ffffff&area=true&area_color=B3001B&hide_border=true" width="92%" />
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3001b,100:05060a&height=100&section=footer&text=Thanks%20for%20Visiting%20%F0%9F%91%8B%F0%9F%8F%BB&fontSize=25&fontColor=ffffff&animation=twinkling" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilmyadav/sahilmyadav/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sahilmyadav/sahilmyadav/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&border_color=30363d&text_color=c9d1d9&quote_color=E63946" />
+</p>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6e0011,100:B3001B&height=110&section=footer&text=Thanks%20for%20visiting%20👋&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
