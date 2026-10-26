@@ -20,6 +20,20 @@
 - 📍 India · 💬 Ask me about **Java, React, Flutter, REST APIs**
 - ⚡ Fun fact: _I debug faster with music on_ 🎧
 
+<!-- ═══════════════════════ WEBSITE ═══════════════════════ -->
+
+## 🌐 My Website
+
+<p align="center">
+  <a href="https://sahilmyadav.pages.dev/" target="_blank">
+    <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fsahilmyadav.pages.dev%2F?w=900" alt="Sahil M. Yadav — Portfolio Website" width="72%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sahilmyadav.pages.dev/" target="_blank"><b>👉 sahilmyadav.pages.dev — click to visit my portfolio</b></a>
+</p>
+
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 ## 📬 Connect
