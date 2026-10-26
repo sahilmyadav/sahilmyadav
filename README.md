@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://sahilmyadav.pages.dev/" target="_blank">
-    <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fsahilmyadav.pages.dev%2F?w=900" alt="Sahil M. Yadav — Portfolio Website" width="72%" />
+    <img src="https://image.thum.io/get/width/900/https://sahilmyadav.pages.dev/" alt="Sahil M. Yadav — Portfolio Website" width="72%" />
   </a>
 </p>
 
