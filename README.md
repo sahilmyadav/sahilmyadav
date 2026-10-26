@@ -80,16 +80,30 @@
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| **[News Feed App](https://github.com/sahilmyadav/newsapp-flutter)** | Flutter · SQL · REST | Real-time news with a reels-style UI |
-| **[Travel Website](https://github.com/sahilmyadav/travel-website-mern-stack)** | MERN · JWT | Full booking system with filters, search & admin panel |
-| **[Forest Fire Detection](https://github.com/sahilmyadav/firedetection-Ai)** | TensorFlow · OpenCV | 92%-accuracy CNN with a real-time alert pipeline |
-| **[BillEase](https://github.com/sahilmyadav/BillEase)** | Spring Boot · React | POS billing with RBAC & analytics dashboard |
+| **[WindAhead GB](https://github.com/sahilmyadav/Project-Greb-WindAhead)** | React · FastAPI · httpx | Day-ahead wind forecast intelligence for a UK energy utility — decision-time forecasts with quantified accuracy (MAE/RMSE/bias), no look-ahead |
+| **[BillEase](https://github.com/sahilmyadav/bill-ease)** | Spring Boot · React · MySQL | POS billing with JWT auth, RBAC, Razorpay & analytics dashboard |
+| **[ClickMe — Social (MERN)](https://github.com/sahilmyadav/social-app-mern)** | MongoDB · Express · React · Node | Full-stack social platform with Docker + nginx setup |
+| **[Logistics Platform](https://github.com/sahilmyadav/logistics-platform)** | MERN | Pan-India logistics platform |
+| **[Clurst](https://github.com/sahilmyadav/clurst-ai-reviews)** | Express · React · Stripe | AI review management & SEO platform for businesses |
+| **[Forest Fire Detection](https://github.com/sahilmyadav/forest-fire-detection)** | TensorFlow · OpenCV | 92%-accuracy CNN with a real-time alert pipeline |
+| **[News App](https://github.com/sahilmyadav/news-app-flutter)** | Flutter · REST | News reader with a clean headline feed |
 
-> 📌 Pin these four repos on your profile (GitHub → Profile → *Customize your pins*) so they show below the README.
+> 📌 Pin these on your profile (GitHub → Profile → *Customize your pins*): `Project-Greb-WindAhead`, `bill-ease`, `social-app-mern`, `logistics-platform`, `clurst-ai-reviews`, `forest-fire-detection`.
 
 ---
 
-## 🏆 GitHub Trophies
+## �️ GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/sahilmyadav?tab=achievements"><img src="https://img.shields.io/badge/GitHub%20PRO-0D1117?style=for-the-badge&logo=github&logoColor=E63946" /></a>
+  <a href="https://github.com/sahilmyadav?achievement=yolo&tab=achievements"><img src="https://img.shields.io/badge/YOLO-merged%20without%20review-0D1117?style=for-the-badge&logo=git&logoColor=E63946" /></a>
+  <a href="https://github.com/sahilmyadav?achievement=quickdraw&tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-closed%20in%20under%205%20min-0D1117?style=for-the-badge&logo=zap&logoColor=E63946" /></a>
+  <a href="https://github.com/sahilmyadav?tab=achievements"><img src="https://img.shields.io/badge/View%20all%20achievements%20%E2%86%92-0D1117?style=for-the-badge&logo=trophy&logoColor=E63946" /></a>
+</p>
+
+---
+
+## �🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahilmyadav&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=E63946" />
@@ -110,6 +124,22 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmyadav&bg_color=0D1117&color=c9d1d9&line=E63946&point=ffffff&area=true&area_color=B3001B&hide_border=true" width="92%" />
+</p>
+
+---
+
+## 📈 Data Analysis
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilmyadav&theme=github_dark" width="92%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilmyadav&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilmyadav&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilmyadav&theme=github_dark" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilmyadav&theme=github_dark&utcOffset=5.5" height="170" />
 </p>
 
 ---
