@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://sahilmyadav.pages.dev/" target="_blank">
-    <img src="https://image.thum.io/get/width/900/https://sahilmyadav.pages.dev/" alt="Sahil M. Yadav — Portfolio Website" width="72%" />
+    <img src="assets/website-preview.png" alt="Sahil M. Yadav — Portfolio Website" width="72%" />
   </a>
 </p>
 
