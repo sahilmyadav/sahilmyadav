@@ -11,22 +11,23 @@
 </p>
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **full-stack products** with Spring Boot, MERN & Flutter
 - 🌱 Learning **system design, AI/ML pipelines & cloud architecture**
 - 💼 Open to **SDE / Full-Stack roles & freelance projects**
 - 📍 India · 💬 Ask me about **Java, React, Flutter, REST APIs**
-- ⚡ Fun fact: *I debug faster with music on* 🎧
+- ⚡ Fun fact: _I debug faster with music on_ 🎧
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
 ## 📬 Connect
 
 <p align="center">
   <a href="mailto:sahilyadav@duck.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
   <a href="https://linkedin.com/in/sahilmyadav"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
   <a href="https://github.com/sahilmyadav"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E63946" /></a>
-  <a href="https://discord.com/users/805123459566010417"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=E63946" /></a>
 </p>
 
 <p align="center">
@@ -67,28 +68,28 @@
 
 ## 🏢 Experience
 
-| Role | Company | When | Highlights |
-|------|---------|------|-----------|
-| **AI & Data Analytics Intern** | Shell India | Apr 2025 | Regression + clustering on sustainability data · Python dashboards · AI forecasting for SDGs |
-| **Full Stack Web Dev Intern** | EY GDS | Dec 2024 – Jan 2025 | MERN apps · AI-assisted UI/UX · modular, scalable builds |
-| **AI-ML Intern** | AWS Academy | 2023 | Supervised + unsupervised ML · EC2 & cloud compute |
-| **Salesforce Admin** | CSM IT | 2023 | Roles & permissions · automated email verification (−40% workload) |
+| Role                           | Company     | When                | Highlights                                                                                   |
+| ------------------------------ | ----------- | ------------------- | -------------------------------------------------------------------------------------------- |
+| **AI & Data Analytics Intern** | Shell India | Apr 2025            | Regression + clustering on sustainability data · Python dashboards · AI forecasting for SDGs |
+| **Full Stack Web Dev Intern**  | EY GDS      | Dec 2024 – Jan 2025 | MERN apps · AI-assisted UI/UX · modular, scalable builds                                     |
+| **AI-ML Intern**               | AWS Academy | 2023                | Supervised + unsupervised ML · EC2 & cloud compute                                           |
+| **Salesforce Admin**           | CSM IT      | 2023                | Roles & permissions · automated email verification (−40% workload)                           |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | What it does |
-|---------|-------|--------------|
-| **[WindAhead GB](https://github.com/sahilmyadav/Project-Greb-WindAhead)** | React · FastAPI · httpx | Day-ahead wind forecast intelligence for a UK energy utility — decision-time forecasts with quantified accuracy (MAE/RMSE/bias), no look-ahead |
-| **[BillEase](https://github.com/sahilmyadav/bill-ease)** | Spring Boot · React · MySQL | POS billing with JWT auth, RBAC, Razorpay & analytics dashboard |
-| **[ClickMe — Social (MERN)](https://github.com/sahilmyadav/social-app-mern)** | MongoDB · Express · React · Node | Full-stack social platform with Docker + nginx setup |
-| **[Logistics Platform](https://github.com/sahilmyadav/logistics-platform)** | MERN | Pan-India logistics platform |
-| **[Clurst](https://github.com/sahilmyadav/clurst-ai-reviews)** | Express · React · Stripe | AI review management & SEO platform for businesses |
-| **[Forest Fire Detection](https://github.com/sahilmyadav/forest-fire-detection)** | TensorFlow · OpenCV | 92%-accuracy CNN with a real-time alert pipeline |
-| **[News App](https://github.com/sahilmyadav/news-app-flutter)** | Flutter · REST | News reader with a clean headline feed |
+| Project                                                                           | Stack                            | What it does                                                                                                                                   |
+| --------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[WindAhead GB](https://github.com/sahilmyadav/Project-Greb-WindAhead)**         | React · FastAPI · httpx          | Day-ahead wind forecast intelligence for a UK energy utility — decision-time forecasts with quantified accuracy (MAE/RMSE/bias), no look-ahead |
+| **[BillEase](https://github.com/sahilmyadav/bill-ease)**                          | Spring Boot · React · MySQL      | POS billing with JWT auth, RBAC, Razorpay & analytics dashboard                                                                                |
+| **[ClickMe — Social (MERN)](https://github.com/sahilmyadav/social-app-mern)**     | MongoDB · Express · React · Node | Full-stack social platform with Docker + nginx setup                                                                                           |
+| **[Logistics Platform](https://github.com/sahilmyadav/logistics-platform)**       | MERN                             | Pan-India logistics platform                                                                                                                   |
+| **[Clurst](https://github.com/sahilmyadav/clurst-ai-reviews)**                    | Express · React · Stripe         | AI review management & SEO platform for businesses                                                                                             |
+| **[Forest Fire Detection](https://github.com/sahilmyadav/forest-fire-detection)** | TensorFlow · OpenCV              | 92%-accuracy CNN with a real-time alert pipeline                                                                                               |
+| **[News App](https://github.com/sahilmyadav/news-app-flutter)**                   | Flutter · REST                   | News reader with a clean headline feed                                                                                                         |
 
-> 📌 Pin these on your profile (GitHub → Profile → *Customize your pins*): `Project-Greb-WindAhead`, `bill-ease`, `social-app-mern`, `logistics-platform`, `clurst-ai-reviews`, `forest-fire-detection`.
+> 📌 Pin these on your profile (GitHub → Profile → _Customize your pins_): `Project-Greb-WindAhead`, `bill-ease`, `social-app-mern`, `logistics-platform`, `clurst-ai-reviews`, `forest-fire-detection`.
 
 ---
 
